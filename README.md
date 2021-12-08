@@ -26,15 +26,15 @@
 
 ## 指导原则
 - 简单性
-    
+  
     > 复杂性把可读的程序变得不可读，复杂性终结了很多软件项目。
 
 - 可读性
-    
+  
     > 代码是给人看的，代码阅读时长远超编写。程序必须可维护，那可读是第一步。
 
 - 生产率
-    
+  
     > 拥有众多的工具集和基础库，可以很简单方便的完成绝大多数工作。
     > 编译速度足够快，拥有动态语言的高效，但却不会面临动态语言不可靠的问题。
     > 自带编程规范，使得团队代码一致，也帮助开发者发现和避免潜在的错误。
@@ -130,6 +130,7 @@
 - [Go语法树入门](https://github.com/chai2010/go-ast-book)
 - [Go Concurrency Patterns](https://github.com/lotusirous/go-concurrency-patterns) - Go 并发模式场景集合
 - [yezihack/algo](https://github.com/yezihack/algo) - 数据结构与算法
+- [golang-cheat-sheet-cn](https://github.com/jincheng9/golang-cheat-sheet-cn) - GitHub上最流行的Golang代码速查表中文翻译版本
 
 
 ## 指南
